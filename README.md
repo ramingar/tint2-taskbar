@@ -6,7 +6,7 @@ This is my tint2 config to obtain this panel:
 [![tint2-menu](preview_peq.jpg)](https://raw.githubusercontent.com/ramingar/tint2-taskbar/master/preview.jpg)
 
 
-The Ubuntu icon at the top right corner is a Whisker Menu placed over the tint2 panel.
+The Ubuntu icon at the top left corner is a Whisker Menu placed over the tint2 panel.
 
 In a full screenshot it would look some like this:
 
